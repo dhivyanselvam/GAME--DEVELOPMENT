@@ -75,7 +75,8 @@ int main() {
 
 **Output :**
 Register No; 2122242300670 Name: DHIVYAN S
-![Screenshot 2025-04-27 132226](https://github.com/user-attachments/assets/0b71ede5-d64b-4464-965a-e78d5e019d1e)
+
+ ![Screenshot 2025-04-27 132226](https://github.com/user-attachments/assets/0b71ede5-d64b-4464-965a-e78d5e019d1e)
 
 
 **Result :**
